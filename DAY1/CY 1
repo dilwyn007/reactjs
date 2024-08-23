@@ -1,11 +1,11 @@
 import React from 'react';
 function comp()
 {
- const name1=("ithayan");
- const name2=("ithayan");
+ const name1=("dilwyn");
+ const name2=("dilwyn");
  console.log(name1 === name2);
- const object1={name:"ithayan"};
- const object2={name:"ithayan"};
+ const object1={name:"dilwyn"};
+ const object2={name:"dilwyn"};
  console.log(object1 === object2);
 }
 const Ithayan1=()=>{
@@ -16,4 +16,4 @@ const Ithayan1=()=>{
     </div>
   )
 }
-export default Ithayan1;
+export default dilwyn1;
