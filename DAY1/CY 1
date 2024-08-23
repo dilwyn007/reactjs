@@ -1,0 +1,19 @@
+import React from 'react';
+function comp()
+{
+ const name1=("ithayan");
+ const name2=("ithayan");
+ console.log(name1 === name2);
+ const object1={name:"ithayan"};
+ const object2={name:"ithayan"};
+ console.log(object1 === object2);
+}
+const Ithayan1=()=>{
+  return(
+    <div>
+
+     <button onClick={comp}>Click</button>
+    </div>
+  )
+}
+export default Ithayan1;
